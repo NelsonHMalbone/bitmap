@@ -1,1 +1,10 @@
 **** QUESTIONS ***
+# EXPERIMENT WITH THE CODE
+
+what happens when the user enters a blank string for the messages?
+
+does it matter what the nonspace characters are in the bitmap variables string?
+
+what does the i variable created in line 45 (book) represent?
+
+what bug happens if you delte or comment out print()on line 52 (book)?
