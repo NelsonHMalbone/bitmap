@@ -2,9 +2,14 @@
 # EXPERIMENT WITH THE CODE
 
 what happens when the user enters a blank string for the messages?
+A: the program just ends
 
 does it matter what the nonspace characters are in the bitmap variables string?
+A: i tried to put a _+ in it just wrote over the as it was .*
 
 what does the i variable created in line 45 (book) represent?
+A: (int) it creates the placement of char to go into the *
+         if no * or whatever symbol char is being used then it remains blank
 
-what bug happens if you delte or comment out print()on line 52 (book)?
+what bug happens if you delete or comment out print()on line 52 (book)?
+A: Does not crate the bit map just forces everything into one line
